@@ -1,11 +1,9 @@
 ###  Opa tudo bom ? 👋
 
 
-Me chamo Tiago , um apaixonado desenvolvedor Web Minha paixão por software é pensar coisas novas e torná-las realidade com interfaces elegantes. Tenho muito cuidado com a experiência, arquitetura e qualidade do código das coisas que construo.
+Me chamo Tiago
 
-Também sou um entusiasta. Aprendi muito com a comunidade de código aberto e adoro como a colaboração e o compartilhamento de conhecimento aconteçam por meio do código aberto. 
-
-Algum trabalho freelance?, envie um e- mail :)
+estudante de programação
 <!--
 **tgvieira/tgvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
