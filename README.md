@@ -3,7 +3,14 @@
 
 Me chamo Tiago
 
-Estudante de programação, uso github pra postar meus projetos pessoais de estudo , atualmente moro na serra gaucha , e um dos meus objetivos é trabalhar fazendo oque eu gosto , Programar . :rocket:
+Estudante de programação, atualmente moro na serra gaucha, Brasil, tenho conhecimento das seguintes tecnologias: 
+HTML
+CSS
+JavaScript
+PHP
+Bootstrap
+MySQL
+
 <!--
 **tgvieira/tgvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
