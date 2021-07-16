@@ -3,7 +3,7 @@
 
 Me chamo Tiago
 
-estudante de programação
+Estudante de programação, uso github pra postar meus projetos pessoais de estudo , atualmente moro na serra gaucha , e um dos meus objetivos é trabalhar fazendo oque eu gosto , Programagar . :rocket:
 <!--
 **tgvieira/tgvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
