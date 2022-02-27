@@ -3,13 +3,7 @@
 
 Me chamo Tiago
 
-Estudante de programação, atualmente moro na serra gaucha, Brasil, tenho conhecimento das seguintes tecnologias: 
--HTML :white_check_mark:
--CSS :white_check_mark:
--JavaScript :white_check_mark:
--PHP :white_check_mark:
--Bootstrap :white_check_mark:
--MySQL :white_check_mark:
+Sou Estudante de Programação
 
 <!--
 **tgvieira/tgvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
