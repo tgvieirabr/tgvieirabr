@@ -50,11 +50,11 @@ Atualmente tenho domínio da linguagem PHP, tenho estudado React | Node.js | Lar
 ## Github Stats  
 <table><tr><td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=tgvieirabr&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=tgvieirabr&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
 
 </td><td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgvieirabr&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgvieirabr&hide_border=true&layout=compact" align="left" style="width: 50%" />
 
 </td></tr></table>  
 
