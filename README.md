@@ -35,10 +35,10 @@ Atualmente tenho domínio da linguagem PHP, tenho estudado React | Node.js | Lar
 ## Interessante ?  
 <table>
 
-- 🔭 Aqui vai encontrar alguns projetos que fiz para praticas e melhorar minhas habilidades.  
+- 🔭 Aqui vai encontrar projetos que fiz para praticas e melhorar minhas habilidades.  
   
 
-- 📖 Atualmente estudando React, Laravel, Node.js.  
+- 📖 Atualmente estudando React, Laravel e Node.js.  
   
 </table>  
 
