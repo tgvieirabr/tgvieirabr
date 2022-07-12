@@ -26,7 +26,7 @@
 ### Um pouco sobre mim.  
 Após muitos anos trabalhando com hardware e infraestrutura paseei por uma mudança de mindset que era hora de me desafiar.
 
-Em 2021 participei do meetanços, uma mentoria com desenvolvedores da serra gaucha, onde aprimorei meu mindset e e só cresceu minha fome por conhecimento.
+Em 2021 participei do meetanços, uma mentoria com desenvolvedores da serra gaucha, onde aprimorei meu mindset e só cresceu minha fome por conhecimento.
 
 Atualmente tenho domínio da linguagem PHP, tenho estudado React | Node.js | Laravel e utilizado em projetos pessoais, pois nos próximos 5 a 10 anos de carreira me vejo como um desenvolvedor sênior back-end mas que possui expertise para atuar como front-end e também como devOps.  
   
@@ -37,7 +37,7 @@ Atualmente tenho domínio da linguagem PHP, tenho estudado React | Node.js | Lar
 ## Interessante ?  
 <table>
 
-- 🔭 Aqui vai encontrar projetos que fiz para praticas e melhorar minhas habilidades.  
+- 🔭 Aqui vai encontrar projetos que fiz para praticar e melhorar minhas habilidades.  
   
 
 - 📖 Atualmente estudando React, Laravel e Node.js.  
