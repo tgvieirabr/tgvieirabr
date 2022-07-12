@@ -19,6 +19,12 @@
 <a href="https://www.behance.net/tgvieirabr" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
+<a href="mailto:tgvieirabr@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a> 
+<a href="https://www.behance.net/tgvieirabr" target="_blank">
+<img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white alt=whatsapp style="margin-bottom: 5px;" />
+</a> 
   
 
 
