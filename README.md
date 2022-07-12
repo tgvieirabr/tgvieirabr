@@ -1,4 +1,4 @@
-## Bem vindo ao meu perfil. Fullstack JR
+## Bem vindo ao meu perfil. Desenvolvedor Fullstack JR
   
 
 <a href="https://github.com/tgvieirabr" target="_blank">
