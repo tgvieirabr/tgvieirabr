@@ -33,7 +33,7 @@ Atualmente tenho domínio da linguagem PHP, tenho estudado React | Node.js | Lar
 
 
 ## Interessante ?  
-<table><tr><td 
+<table>
 
 - 🔭 Aqui vai encontrar alguns projetos que fiz para praticas e melhorar minhas habilidades.  
   
@@ -44,7 +44,7 @@ Atualmente tenho domínio da linguagem PHP, tenho estudado React | Node.js | Lar
 - ❓ Pergunte-me alguma coisa sobre php ou carros.  
 
 
-</td></tr></table>  
+</table>  
 
 <br/>  
 
