@@ -32,7 +32,7 @@ Atualmente tenho domínio da linguagem PHP, tenho estudado React | Node.js | Lar
 <br/>  
 
 
-## Rapidfire  
+## Interessante ?  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 Aqui vai encontrar alguns projetos que fiz para praticas e melhorar minhas habilidades.  
@@ -45,10 +45,6 @@ Atualmente tenho domínio da linguagem PHP, tenho estudado React | Node.js | Lar
 
 
 </td><td valign="top" width="50%">
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
