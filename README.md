@@ -1,4 +1,4 @@
-## Bem vindo ao meu perfil, me chamo Tiago sou  desenvolvedor Full Stack JR
+## Bem vindo ao meu perfil, me chamo Tiago sou  desenvolvedor Full Stack 
   
 
 <a href="https://github.com/tgvieirabr" target="_blank">
@@ -46,7 +46,7 @@ Atualmente tenho domínio da linguagem PHP, tenho estudado React | Node.js | Lar
 - 🔭 Aqui vai encontrar projetos que fiz para praticar e melhorar minhas habilidades.  
   
 
-- 📖 Atualmente estudando React, Laravel e Node.js.  
+- 📖 Atualmente estudando React, Laravel.
   
 </table>  
 
