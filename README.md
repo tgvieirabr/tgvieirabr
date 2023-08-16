@@ -1,53 +1,65 @@
-## Bem Vindo Ao Meu Perfil.
-Me Chamo Tiago, 
-Sou  Desenvolvedor Web.
-  
+<h3 align="left">Tiago Vieira</h3>
 
-<a href="https://linkedin.com/in/tgvieirabr" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+###
 
+<br clear="both">
 
-<a href="mailto:tgvieirabr@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-</a> 
-<a href="https://api.whatsapp.com/send?phone=5554996376693&text=Oi.%20te%20achei%20no%20github" target="_blank">
-<img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white alt=whatsapp style="margin-bottom: 5px;" />
-</a> 
-  
+<p align="left">Frontend Developer & UI Designer</p>
 
+###
 
+<br clear="both">
 
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=tgvieirabr&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=tiago@tgdev.be&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+</div>
 
-# 💻 Ferramentas e linguagens de programação que utilizo:
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![MySQL](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+###
 
+<br clear="both">
 
+<p align="left">Meu nome é Tiago Vieira, Sou Front-end Developer e UI Designer desde 2020. Sou extremamente apaixonado por café e cinema.</p>
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+###
 
-<img src="https://github-readme-stats.vercel.app/api?username=tgvieirabr&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<h3 align="left">Hard Skills</h3>
 
-</td><td valign="top" width="50%">
+###
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgvieirabr&hide_border=true&layout=compact" align="left" style="width: 95%" />
+<br clear="both">
 
-</td></tr></table>  
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" alt="typescript logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="25" alt="nextjs logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=styledcomponents" height="25" alt="styledcomponents logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=emotion" height="25" alt="emotion logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="25" alt="css3 logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="25" alt="jquery logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="25" alt="docker logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="25" alt="linux logo"  />
+</div>
 
-<br/>  
+###
 
+<br clear="both">
 
+<div align="right">
+  <img height="150" src="https://raw.githubusercontent.com/tgvieirabr/meusite/img/computer-illustration.png?token=GHSAT0AAAAAACGJADWHGHXJZQGNCDIP7AREZG4YZIA"  />
+</div>
 
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=tgvieirabr&&style=flat-square)  
-
-
-<br/>  
-
-
-
-<br />
-
+###
