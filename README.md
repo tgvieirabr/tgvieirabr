@@ -1,5 +1,7 @@
 <h3 align="left">Tiago Vieira</h3>
 
+---
+
 <p align="left">Frontend Developer & UI Designer</p>
 <div align="left">
   <a href="https://www.linkedin.com/in/tgvieirabr/" target="_blank">
