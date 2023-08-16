@@ -9,7 +9,10 @@
 </div>
 
 
-<p align="left">Meu nome é Tiago Vieira, Sou Front-end Developer e UI Designer desde 2020. Sou extremamente apaixonado por café e cinema.</p>
+<p align="left">Meu nome é Tiago Vieira, Sou Front-end Developer e UI Designer desde 2020.
+  Sou extremamente apaixonado por café e cinema.
+  Cursando analise e desenvolvimento de sistemas na universidade cruzeiro do sul (FSG).
+</p>
 <h3 align="left">Hard Skills</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
