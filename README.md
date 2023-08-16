@@ -1,5 +1,5 @@
 <h3 align="left">Tiago Vieira</h3>
-<br clear="both">
+
 <p align="left">Frontend Developer & UI Designer</p>
 <br clear="both">
 <div align="left">
