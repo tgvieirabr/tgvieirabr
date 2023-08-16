@@ -11,7 +11,7 @@
 
 <p align="left">Meu nome é Tiago Vieira, Sou Front-end Developer e UI Designer desde 2020.
   Sou extremamente apaixonado por café e cinema.
-  Cursando ultimo semestre de analise e desenvolvimento de sistemas na universidade cruzeiro do sul (FSG).
+Graduando ultimo semestre de analise e desenvolvimento de sistemas na universidade cruzeiro do sul (FSG).
 </p>
 <h3 align="left">Hard Skills</h3>
 <div align="left">
