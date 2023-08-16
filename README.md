@@ -11,7 +11,6 @@
 <p align="left">Meu nome é Tiago Vieira, Sou Front-end Developer e UI Designer desde 2020. Sou extremamente apaixonado por café e cinema.</p>
 <br clear="both">
 <h3 align="left">Hard Skills</h3>
-<br clear="both">
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
   <img width="5" />
