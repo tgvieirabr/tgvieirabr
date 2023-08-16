@@ -1,7 +1,7 @@
 <h3 align="left">Tiago Vieira</h3>
 
 <p align="left">Frontend Developer & UI Designer</p>
-<br clear="both">
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=tgvieirabr&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=tiago@tgdev.be&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
@@ -9,7 +9,7 @@
 </div>
 <br clear="both">
 <p align="left">Meu nome é Tiago Vieira, Sou Front-end Developer e UI Designer desde 2020. Sou extremamente apaixonado por café e cinema.</p>
-<br clear="both">
+
 <h3 align="left">Hard Skills</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
