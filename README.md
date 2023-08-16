@@ -1,15 +1,13 @@
 <h3 align="left">Tiago Vieira</h3>
-
+---
 <p align="left">Frontend Developer & UI Designer</p>
 <div align="left">
- 
-  <img href="https://www.linkedin.com/in/tgvieirabr/" src="https://img.shields.io/static/v1?message=tgvieirabr&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-    
-  <img href="mailto:tiago@tgdev.be" src="https://img.shields.io/static/v1?message=tiago@tgdev.be&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+ ---
+   <img href="https://www.linkedin.com/in/tgvieirabr/" src="https://img.shields.io/static/v1?message=tgvieirabr&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+      <img href="mailto:tiago@tgdev.be" src="https://img.shields.io/static/v1?message=tiago@tgdev.be&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   <img href="https://wa.me/5554996376693" src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
 </div>
-
-
+---
 <p align="left">Meu nome é Tiago Vieira, Sou Front-end Developer e UI Designer desde 2020.
   Sou extremamente apaixonado por café e cinema.
 Graduando ultimo semestre de analise e desenvolvimento de sistemas na universidade cruzeiro do sul (FSG).
