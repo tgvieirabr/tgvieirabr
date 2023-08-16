@@ -15,6 +15,7 @@
   </a>
 </div>
 
+---
 
 <p align="left">Meu nome é Tiago Vieira, Sou Front-end Developer e UI Designer desde 2020.
   Sou extremamente apaixonado por café e cinema.
