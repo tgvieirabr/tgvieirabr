@@ -13,7 +13,7 @@
 
 ---
 
-<p align="left">Meu nome é Tiago Vieira, Sou Front-end Developer e UI Designer.
+<p align="left">Meu nome é Tiago Vieira, Sou FullStack Developer e UI Designer.
   Sou extremamente apaixonado por café e cinema.
 Graduando ultimo semestre de analise e desenvolvimento de sistemas na universidade cruzeiro do sul (FSG).
 </p>
