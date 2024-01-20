@@ -13,9 +13,8 @@
 
 ---
 
-<p align="left">Meu nome é Tiago Vieira, Sou FullStack Developer e UI Designer.
-  Sou extremamente apaixonado por café e cinema.
-Graduando ultimo semestre de analise e desenvolvimento de sistemas na universidade cruzeiro do sul (FSG).
+<p align="left">Meu nome é Tiago Vieira, Sou FullStack Developer PHP + VUE.
+Graduado em analise e desenvolvimento de sistemas na universidade cruzeiro do sul (FSG).
 </p>
 <h3 align="left">Hard Skills</h3>
 <div align="left">
