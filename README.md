@@ -1,4 +1,4 @@
-<h3 align="left">Front-end Developer & UI Designer</h3>
+<h3 align="left">Developer</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/tgvieirabr/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=tgvieirabr&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
