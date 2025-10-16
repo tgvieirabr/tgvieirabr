@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/tgvieirabr/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=tgvieirabr&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="mailto:tiago@tgdev.be">
+  <a href="mailto:tgvieirabr@gmail.com">
     <img src="https://img.shields.io/static/v1?message=tiago@tgdev.be&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
   <a href="https://wa.me/5554996376693" target="_blank">
